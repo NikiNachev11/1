@@ -1,0 +1,60 @@
+body {
+    font-family:serif;
+}
+header{
+    background-color:#00c8fa ;
+    border: 5px solid #00c8fa;
+    border-radius: 10px;
+}
+header a{
+text-decoration: none;
+color: red;
+}
+h1{
+    border: 5px solid black;
+    border-radius:5px;
+    background-color: violet;
+    text-align: center;
+    color: red;
+}
+footer p{
+    color: green;
+    background-color: black;
+    border: 1px solid;
+    border-radius: 5px;;
+}
+nav{
+    border:1px solid black ;
+    border-radius: 5px;
+    padding: 5px;
+    margin:  10px;
+    background-color: green;
+}
+ nav a {
+    text-decoration: none;
+    padding: 20px;
+    margin:  25px;
+    color: white;
+}
+.container p {
+    color: white;
+    border: 1px solid red;
+    border-radius: 5px;
+    background-color: red;
+}
+h2{
+    color: blue;
+}
+main img{
+    width: 100px;
+}
+main a{
+    text-decoration: none;
+    
+}
+.image{
+     width: 200px;
+}
+.a{
+    border: 2px solid black ;
+}
